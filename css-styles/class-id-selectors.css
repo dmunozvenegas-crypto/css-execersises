@@ -1,0 +1,22 @@
+.odd {
+   
+    background-color: pink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#even{
+    color: blue;
+    font-size:36px;
+
+}
+.odd.number-3{
+    font-size:24px;
+}
+
+#even-last{
+    background: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
+
+
